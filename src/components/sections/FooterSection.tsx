@@ -93,7 +93,7 @@ function FooterSection() {
           <Separator />
         </div>
 
-        <p className="text-customGray">2023 furino. All rights reverved</p>
+        <p className="text-customGray">2024 furino. All rights reverved</p>
       </div>
     </section>
   );
